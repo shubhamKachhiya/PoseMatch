@@ -1,0 +1,15 @@
+{
+  "originHash" : "09c7466bae44d3292d99d3c50d7412abc0dbafe740a1897026709007c8c072f4",
+  "pins" : [
+    {
+      "identity" : "posematch",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/shubhamKachhiya/PoseMatch.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "019c875f4bdcbe85c81800f7ce10d4c9ba1b21e9"
+      }
+    }
+  ],
+  "version" : 3
+}
