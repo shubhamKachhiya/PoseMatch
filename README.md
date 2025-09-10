@@ -45,7 +45,7 @@
 <ol>
   <li>In Xcode, go to: <code>File → Add Packages...</code></li>
   <li>Enter repo URL:<br>
-    <code>https://github.com/shubhamkachhiya/PoseMatch</code>
+    <code>https://github.com/shubhamKachhiya/PoseMatch.git</code>
   </li>
   <li>Add <code>PoseMatch</code> as a dependency.</li>
 </ol>
